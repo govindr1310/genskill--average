@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Output test",
+      "setup": "",
+      "run": "/bin/sh ./test.sh",
+      "input": "",
+      "output": "4.500000",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
